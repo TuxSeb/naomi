@@ -1,0 +1,11 @@
+README
+setup.cfg
+pip-egg-info/wolframalpha.egg-info/PKG-INFO
+pip-egg-info/wolframalpha.egg-info/SOURCES.txt
+pip-egg-info/wolframalpha.egg-info/dependency_links.txt
+pip-egg-info/wolframalpha.egg-info/not-zip-safe
+pip-egg-info/wolframalpha.egg-info/requires.txt
+pip-egg-info/wolframalpha.egg-info/top_level.txt
+wolframalpha/__init__.py
+wolframalpha/compat.py
+wolframalpha/test_client.py
